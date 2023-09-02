@@ -1,4 +1,5 @@
 This algorithm work as merge sort but while sorting the array it counts the number of Inversions in it.
 O(n * logn)
-
+Written in c++
 coursera Stanford 1st algorithms course
+The test at main was to input 100,000 integers each value range from 1 to 100,000 and output the number of Inversions this algorithm also sort the array.
