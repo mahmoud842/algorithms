@@ -1,0 +1,4 @@
+This algorithm work as merge sort but while sorting the array it counts the number of Inversions in it.
+O(n * logn)
+
+coursera Stanford 1st algorithms course
